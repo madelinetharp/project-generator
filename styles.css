@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    background-color: #252527;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10%;
+    font-size: 2em;
+}
+
+button {
+    color: #000000;
+    font-weight: bold;
+    border: none;
+    background-color: #75bbee;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: #1d87d3;
+}
+
+#projectDisplay {
+    font-size: larger;
+    display: inline-block;
+    margin-top: 40px;
+    height: 20px;
+}
+
+#extraDisplay {
+    font-size: larger;
+    display: inline-block;
+    margin-top: 40px;
+    height: 20px;
+}
+
+footer {
+    position: relative;
+    margin-top: 50px;
+    font-size: .9em;
+}
