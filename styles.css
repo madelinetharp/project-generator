@@ -16,7 +16,7 @@ button {
     font-weight: bold;
     border: none;
     background-color: #75bbee;
-    padding: 10px;
+    padding: 1%;
     border-radius: 15px;
 }
 
@@ -27,19 +27,17 @@ button:hover {
 #projectDisplay {
     font-size: larger;
     display: inline-block;
-    margin-top: 40px;
-    height: 20px;
+    margin-top: 5%;
 }
 
 #extraDisplay {
     font-size: larger;
     display: inline-block;
-    margin-top: 40px;
-    height: 20px;
+    margin-top: 5%;
 }
 
 footer {
     position: relative;
-    margin-top: 50px;
+    margin-top: 5%;
     font-size: .9em;
 }
