@@ -6,22 +6,22 @@
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Lexend, Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 10%;
     font-size: 2em;
 }
 
 button {
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     border: none;
-    background-color: #75bbee;
+    background-color: #64A70B;
     padding: 1%;
     border-radius: 15px;
 }
 
 button:hover {
-    background-color: #1d87d3;
+    background-color: #558910;
 }
 
 #projectDisplay {
