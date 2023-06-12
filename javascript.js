@@ -1,5 +1,5 @@
 var project = [
-    'Aperitivo', 'Big Deal','Al Pastor', 'Culvers', 'Grassroots', 'Benelux', 'Shake Shack', 'Oscars Winners Circle','Rocky Rococos', 'Swinging Door', 'Cubanitas', 'Potbelly', 'Cafe 111', 'Spicy Tuna', 'Public Market', 'Xankia', 'GoldenGyros', 'Palermo Pizza', 'Popeyes', 'Martinos', 'IHOP', '3rd Street', 'Panda Express'
+    'Aperitivo', 'Big Deal','Al Pastor', 'Culvers', 'Grassroots', 'Benelux', 'Shake Shack', 'Oscars Winners Circle','Rocky Rococos', 'Swinging Door', 'Cubanitas', 'Potbelly', 'Cafe 111', 'Spicy Tuna', 'Public Market', 'Xankia', 'Golden Gyros', 'Palermo Pizza', 'Popeyes', 'Martinos', 'IHOP', '3rd Street', 'Panda Express'
 ]
 
 
